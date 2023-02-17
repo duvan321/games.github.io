@@ -30,4 +30,4 @@
 - 📫 How to contact me
 *diegoduvan321@gmail.com*
 
-visite mi sitio aqui: https://duvan321.github.io/index.html
+visite mi sitio aqui: https://duvan321.github.io
