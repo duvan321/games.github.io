@@ -30,4 +30,4 @@ Este juego de piedra, papel y tijera lo hice con lo que estoy aprendiendo sobre 
 - 📫 Como contactarme:
 *diegoduvan321@gmail.com*
 
-visite mi sitio aqui: https://duvan321.github.io
+visite mi sitio aqui: https://duvan321.github.io/piedra-papel-tijera/
